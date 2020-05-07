@@ -18,7 +18,7 @@
             <div class='page-header'>
                 <h1 style="color: darkred">Something went wrong!</h1>
             </div>
-            <h3>Please go back.</h3>
+            <h3>Please go back!</h3>
         </div>
     </div>
 </div>
